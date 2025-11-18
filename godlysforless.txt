@@ -1,10 +1,10 @@
 [x8] - Saw
-[x15] - Orange Seer
 [x14] - Red Seer
-[x15] - Blue Seer
-[x75] - Seer
+[x15] - Orange Seer
+[x74] - Seer
 [x27] - Yellow Seer
 [x20] - Purple Seer
+[x15] - Blue Seer
 [x13] - Flames
 [x23] - Eggblade
 [x14] - Ghostblade
