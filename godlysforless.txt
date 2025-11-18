@@ -16,5 +16,5 @@
 [x27] - Snowflake
 [x17] - Cookieblade
 [x22] - Xmas
-[x2] - Ice Shard
 [x19] - Handsaw
+[x2] - Ice Shard
