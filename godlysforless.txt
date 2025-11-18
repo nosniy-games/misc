@@ -11,7 +11,7 @@
 [x22] - Hallow's Edge
 [x11] - Boneblade
 [x3] - Peppermint
-[x27] - Winter's Edge
+[x26] - Winter's Edge
 [x22] - Ice Dragon
 [x27] - Snowflake
 [x17] - Cookieblade
