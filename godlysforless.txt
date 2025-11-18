@@ -2,7 +2,7 @@
 [x15] - Orange Seer
 [x14] - Red Seer
 [x15] - Blue Seer
-[x77] - Seer
+[x76] - Seer
 [x27] - Yellow Seer
 [x20] - Purple Seer
 [x13] - Flames
