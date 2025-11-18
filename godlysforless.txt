@@ -1,7 +1,7 @@
 [x8] - Saw
 [x14] - Red Seer
 [x15] - Orange Seer
-[x72] - Seer
+[x71] - Seer
 [x27] - Yellow Seer
 [x20] - Purple Seer
 [x15] - Blue Seer
