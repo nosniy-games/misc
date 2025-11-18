@@ -1,7 +1,7 @@
 [x8] - Saw
 [x15] - Blue Seer
 [x14] - Red Seer
-[x72] - Seer
+[x77] - Seer
 [x20] - Purple Seer
 [x15] - Orange Seer
 [x27] - Yellow Seer
@@ -9,9 +9,9 @@
 [x23] - Eggblade
 [x14] - Ghostblade
 [x22] - Hallow's Edge
-[x11] - Boneblade
+[x20] - Boneblade
 [x3] - Peppermint
-[x26] - Winter's Edge
+[x28] - Winter's Edge
 [x22] - Ice Dragon
 [x27] - Snowflake
 [x17] - Cookieblade
