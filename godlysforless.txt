@@ -1,4 +1,4 @@
-[x70] - Seer
+[x69] - Seer
 [x13] - Flames
 [x70] - Blue Seer
 [x70] - Orange Seer
