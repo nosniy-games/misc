@@ -1,4 +1,4 @@
-[x71] - Red Seer
+[x69] - Red Seer
 [x70] - Orange Seer
 [x70] - Blue Seer
 [x70] - Seer
