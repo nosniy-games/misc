@@ -1,8 +1,8 @@
 [x71] - Red Seer
-[x71] - Orange Seer
-[x71] - Blue Seer
-[x71] - Seer
-[x71] - Yellow Seer
+[x70] - Orange Seer
+[x70] - Blue Seer
+[x70] - Seer
+[x70] - Yellow Seer
 [x70] - Purple Seer
 [x13] - Flames
 [x23] - Eggblade
