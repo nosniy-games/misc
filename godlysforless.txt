@@ -3,7 +3,7 @@
 [x70] - Blue Seer
 [x70] - Seer
 [x70] - Yellow Seer
-[x70] - Purple Seer
+[x69] - Purple Seer
 [x13] - Flames
 [x23] - Eggblade
 [x3] - Peppermint
