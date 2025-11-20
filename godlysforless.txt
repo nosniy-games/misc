@@ -1,12 +1,11 @@
-[x69] - Seer
+[x59] - Purple Seer
+[x60] - Orange Seer
+[x59] - Red Seer
 [x13] - Flames
-[x70] - Blue Seer
-[x70] - Orange Seer
-[x70] - Yellow Seer
-[x69] - Purple Seer
-[x69] - Red Seer
+[x60] - Yellow Seer
+[x60] - Blue Seer
 [x23] - Eggblade
 [x3] - Peppermint
 [x28] - Winter's Edge
-[x27] - Snowflake
 [x17] - Cookieblade
+[x27] - Snowflake
