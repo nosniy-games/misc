@@ -2,7 +2,7 @@
 [x43] - Red Seer
 [x43] - Orange Seer
 [x43] - Yellow Seer
-[x44] - Purple Seer
+[x42] - Purple Seer
 [x43] - Blue Seer
 [x23] - Eggblade
 [x3] - Peppermint
