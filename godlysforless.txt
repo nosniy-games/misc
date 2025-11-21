@@ -1,5 +1,5 @@
 [x13] - Flames
-[x44] - Red Seer
+[x43] - Red Seer
 [x43] - Orange Seer
 [x43] - Yellow Seer
 [x44] - Purple Seer
