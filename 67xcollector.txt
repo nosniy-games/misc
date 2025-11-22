@@ -1,1 +1,6 @@
-Stock Unknown
+[x10] - Purple Seer
+[x45] - Blue Seer
+[x10] - Red Seer
+[x9] - Seer
+[x9] - Yellow Seer
+[x10] - Orange Seer
