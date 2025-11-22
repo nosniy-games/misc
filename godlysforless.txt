@@ -1,6 +1,6 @@
 [x40] - Purple Seer
-[x40] - Blue Seer
 [x40] - Orange Seer
+[x40] - Blue Seer
 [x40] - Red Seer
 [x40] - Yellow Seer
 [x13] - Flames
