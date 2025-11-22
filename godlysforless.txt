@@ -1,4 +1,4 @@
-[x41] - Purple Seer
+[x40] - Purple Seer
 [x41] - Orange Seer
 [x41] - Red Seer
 [x13] - Flames
