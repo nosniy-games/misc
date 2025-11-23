@@ -5,7 +5,7 @@
 [x39] - Red Seer
 [x13] - Flames
 [x23] - Eggblade
+[x3] - Peppermint
 [x28] - Winter's Edge
 [x17] - Cookieblade
 [x27] - Snowflake
-[x3] - Peppermint
