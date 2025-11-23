@@ -1,4 +1,4 @@
-[x40] - Yellow Seer
+[x39] - Yellow Seer
 [x40] - Orange Seer
 [x40] - Blue Seer
 [x40] - Red Seer
