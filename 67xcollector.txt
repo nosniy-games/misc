@@ -1,5 +1,5 @@
 [x10] - Purple Seer
-[x45] - Blue Seer
+[x42] - Blue Seer
 [x10] - Red Seer
 [x9] - Seer
 [x9] - Yellow Seer
