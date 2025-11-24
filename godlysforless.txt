@@ -2,7 +2,7 @@
 [x39] - Blue Seer
 [x39] - Purple Seer
 [x39] - Orange Seer
-[x39] - Yellow Seer
+[x38] - Yellow Seer
 [x13] - Flames
 [x23] - Eggblade
 [x28] - Winter's Edge
