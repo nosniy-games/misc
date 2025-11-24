@@ -6,6 +6,6 @@
 [x13] - Flames
 [x23] - Eggblade
 [x28] - Winter's Edge
-[x3] - Peppermint
 [x17] - Cookieblade
 [x27] - Snowflake
+[x3] - Peppermint
