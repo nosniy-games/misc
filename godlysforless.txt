@@ -1,5 +1,5 @@
-[x38] - Red Seer
 [x38] - Blue Seer
+[x38] - Red Seer
 [x38] - Yellow Seer
 [x37] - Purple Seer
 [x38] - Orange Seer
