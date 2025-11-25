@@ -1,6 +1,6 @@
 [x37] - Blue Seer
 [x37] - Red Seer
-[x38] - Yellow Seer
+[x37] - Yellow Seer
 [x37] - Purple Seer
 [x37] - Orange Seer
 [x13] - Flames
