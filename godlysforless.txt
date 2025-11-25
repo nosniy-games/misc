@@ -1,7 +1,7 @@
 [x38] - Red Seer
 [x38] - Blue Seer
 [x38] - Yellow Seer
-[x38] - Purple Seer
+[x37] - Purple Seer
 [x38] - Orange Seer
 [x13] - Flames
 [x23] - Eggblade
