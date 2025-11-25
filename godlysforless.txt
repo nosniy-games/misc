@@ -5,7 +5,7 @@
 [x38] - Orange Seer
 [x13] - Flames
 [x23] - Eggblade
-[x28] - Winter's Edge
-[x17] - Cookieblade
 [x27] - Snowflake
+[x17] - Cookieblade
+[x28] - Winter's Edge
 [x3] - Peppermint
