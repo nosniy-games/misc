@@ -7,9 +7,14 @@ export async function GET(request: NextRequest) {
     return NextResponse.json({ error: 'userId is required' }, { status: 400 })
   }
 
+  const userIdNum = parseInt(userId, 10)
+  if (!Number.isInteger(userIdNum) || userIdNum <= 0 || String(userIdNum) !== userId) {
+    return NextResponse.json({ error: 'Invalid userId' }, { status: 400 })
+  }
+
   try {
     const res = await fetch(
-      `https://thumbnails.roblox.com/v1/users/avatar-headshot?userIds=${userId}&size=420x420&format=Png`
+      `https://thumbnails.roblox.com/v1/users/avatar-headshot?userIds=${userIdNum}&size=420x420&format=Png`
     )
 
     if (!res.ok) {

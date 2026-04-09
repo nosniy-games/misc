@@ -7,10 +7,15 @@ export async function GET(request: NextRequest) {
     return NextResponse.json({ error: 'assetId is required' }, { status: 400 })
   }
 
+  const assetIdNum = parseInt(assetId, 10)
+  if (!Number.isInteger(assetIdNum) || assetIdNum <= 0 || String(assetIdNum) !== assetId) {
+    return NextResponse.json({ error: 'Invalid assetId' }, { status: 400 })
+  }
+
   try {
     const [detailsRes, thumbnailRes] = await Promise.all([
-      fetch(`https://economy.roblox.com/v2/assets/${assetId}/details`),
-      fetch(`https://thumbnails.roblox.com/v1/assets?assetIds=${assetId}&size=420x420&format=Png`),
+      fetch(`https://economy.roblox.com/v2/assets/${assetIdNum}/details`),
+      fetch(`https://thumbnails.roblox.com/v1/assets?assetIds=${assetIdNum}&size=420x420&format=Png`),
     ])
 
     if (!detailsRes.ok) {
