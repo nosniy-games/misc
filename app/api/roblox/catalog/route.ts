@@ -33,7 +33,7 @@ export async function GET(request: NextRequest) {
     }
 
     return NextResponse.json({
-      assetId: Number(assetId),
+      assetId: assetIdNum,
       name: details.Name ?? 'Unknown',
       price: details.PriceInRobux ?? null,
       creatorName: details.Creator?.Name ?? 'Unknown',
