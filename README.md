@@ -1,6 +1,6 @@
 # RBLX HUB
 
-A modern Roblox community platform built with Next.js 14, Tailwind CSS, and Framer Motion.
+A modern Roblox community platform built with Next.js 15, Tailwind CSS, and Framer Motion.
 
 ## Features
 
@@ -10,7 +10,7 @@ A modern Roblox community platform built with Next.js 14, Tailwind CSS, and Fram
 
 ## Tech Stack
 
-- Next.js 14 (App Router)
+- Next.js 15 (App Router)
 - TypeScript
 - Tailwind CSS
 - Framer Motion
